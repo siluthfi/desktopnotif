@@ -8,3 +8,6 @@ notification.notify(
 	app_icon = "Paomedia-Small-N-Flat-Bell.ico",
 	timeout = 10
 	)
+
+"""install module requests sebelum mencoba
+dengan command 'pip requests install'"""
